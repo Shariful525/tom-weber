@@ -42,7 +42,7 @@ body {
   object-fit: contain;
   position: absolute;
   top: 25%; /* center vertically */
-  left: 43%; /* center horizontally */
+  left: 45%; /* center horizontally */
   transform: translate(-50%, -50%); /* shift to actual center */
   z-index: 2;
   pointer-events: none;
